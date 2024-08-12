@@ -1,10 +1,10 @@
 ## Hi there 👋
 
+My name is Aaron. I have been designing for the web for over 15 years and I have been developing for the web for over 5 years.
+
+This repo is for any ideas I have for web-related projects/products, no matter how crazy or wild they are, to push the bar in various areas of web design and development. And best of all, I get to share it with you all!
+
 <!--
-**avinno/avinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
