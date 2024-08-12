@@ -2,7 +2,7 @@
 
 My name is Aaron. I have been designing for the web for over 15 years and I have been developing for the web for over 5 years.
 
-This repo is for any ideas I have for web-related projects/products, no matter how crazy or wild they are, to push the bar in various areas of web design and development. And best of all, I get to share it with you all!
+This GitHub account is for any ideas I have for web-related projects/products, no matter how crazy or wild they are, to push the bar in various areas of web design and development and to try new ways of doing things as tech continues to make quick advances. And best of all, I get to share it all with you all! Hopefully these projects won't turn out to be too much of a "shit show", but let's have some fun!
 
 <!--
 - 🔭 I’m currently working on ...
